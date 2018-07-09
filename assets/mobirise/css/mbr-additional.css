@@ -3012,22 +3012,23 @@ body {
 .cid-qX2ghfDQa0 .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-qX2ghgqQtd {
-  padding-top: 120px;
-  padding-bottom: 120px;
+.cid-qXk8yI3Vev {
+  padding-top: 90px;
+  padding-bottom: 105px;
+  background-image: url("../../../assets/images/contact-1920x1358.jpg");
 }
-.cid-qX2ghgqQtd .mbr-figure {
+.cid-qXk8yI3Vev .mbr-figure {
   margin: 0 auto;
   width: 100%;
   display: flex;
   justify-content: center;
 }
-.cid-qX2ghgqQtd .mbr-figure img {
+.cid-qXk8yI3Vev .mbr-figure img {
   height: 100%;
   margin: 0 auto;
 }
 @media (max-width: 991px) {
-  .cid-qX2ghgqQtd .mbr-figure img {
+  .cid-qXk8yI3Vev .mbr-figure img {
     width: 100% !important;
   }
 }
